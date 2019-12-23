@@ -1,6 +1,6 @@
 # JAVA LEARNING REPO
 
-My repo for practicing for FIRST Robotics competition 2020.  
+Practice repo for FIRST Robotics competition 2020.
 I'll be reviewing some java from the [Java Beginners Book](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/).
 In particular, topics: 
  
